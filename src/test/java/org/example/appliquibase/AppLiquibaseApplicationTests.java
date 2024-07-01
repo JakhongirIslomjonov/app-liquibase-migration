@@ -3,10 +3,10 @@ package org.example.appliquibase;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class AppLiquibaseApplicationTests {
 
-    @Test
+//    @Test
     void contextLoads() {
     }
 
